@@ -1,0 +1,15 @@
+<p>Lista</p>
+
+<h2>Animais</h2>
+<ul>
+    <li *ngFor="let animal of animals" >
+        <p>{{animal.name}}</p> 
+        <p>- Type:  {{animal.type | uppercase}} </p> 
+    
+        <button (click)="showAgeMethod(animal)" type="submit">Mostrar Idade</button>
+        <button (click)="removeAnimal(animal)" type="submit">Delete</button>
+    </li>
+    <br><br>
+    <div>{{Animaldetails}}</div>
+    
+</ul>

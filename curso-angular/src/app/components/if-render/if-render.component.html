@@ -1,0 +1,8 @@
+<p>Estrutura condicional</p>
+<div *ngIf="canShow"> Exibindo mensagem</div>
+<br>
+<button (click)="show()" type="submit">clique me mim</button>
+
+<ul *ngFor="let car of cars" >
+    <li>{{car.nome}} {{car.year}} - {{car.type}}</li>
+</ul>

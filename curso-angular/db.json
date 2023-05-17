@@ -1,0 +1,14 @@
+{
+    "pokemons":[
+        {"name":"bulbasaur","type":"https://pokeapi.co/api/v2/pokemon/1/", "age": 5},
+        {"name":"ivysaur","type":"https://pokeapi.co/api/v2/pokemon/2/","age": 6},
+        {"name":"venusaur","type":"https://pokeapi.co/api/v2/pokemon/3/","age": 5},
+        {"name":"charmander","type":"https://pokeapi.co/api/v2/pokemon/4/","age": 3},
+        {"name":"charmeleon","type":"https://pokeapi.co/api/v2/pokemon/5/","age": 1},
+        {"name":"charizard","type":"https://pokeapi.co/api/v2/pokemon/6/","age": 21},
+        {"name":"squirtle","type":"https://pokeapi.co/api/v2/pokemon/7/","age": 7},
+        {"name":"wartortle","type":"https://pokeapi.co/api/v2/pokemon/8/","age": 2},
+        {"name":"blastoise","type":"https://pokeapi.co/api/v2/pokemon/9/","age": 13},
+        {"name":"raticate","type":"https://pokeapi.co/api/v2/pokemon/20/","age": 9}
+        ]
+    }
